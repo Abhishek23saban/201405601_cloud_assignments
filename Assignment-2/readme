@@ -1,0 +1,5 @@
+To run the file
+
+sudo python myassign.py  X  Y
+X-number of switches
+Y-number of hosts
